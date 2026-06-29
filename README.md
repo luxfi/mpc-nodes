@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="mpc-nodes" width="880"></p>
+
 # Multi-party ECDSA
 
 This project is a Typescrypt & Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm) for Teleport bridge protocol.
